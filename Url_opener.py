@@ -1,4 +1,4 @@
-from sys import implementation
+
 import PySimpleGUI as sg
 import webbrowser
 
@@ -44,21 +44,7 @@ while True:
         get_url = webbrowser.open('https://learningedge.edgehill.ac.uk/ultra/course')
         window.close()
 
-    
 
-    
-
-   
-
-    
-
-    
-
-        
-        
-        
-
-    
 window.close()
 
 
